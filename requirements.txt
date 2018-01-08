@@ -1,0 +1,6 @@
+py4j
+pandas
+numpy
+scipy
+matplotlib
+boto3
