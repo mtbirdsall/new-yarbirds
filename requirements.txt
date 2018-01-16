@@ -4,3 +4,4 @@ numpy
 scipy
 matplotlib
 boto3
+scrapy
